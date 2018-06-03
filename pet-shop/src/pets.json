@@ -1,83 +1,83 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
+    "name": "Entei",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "location": "Paris"
   },
   {
     "id": 1,
-    "name": "Gina",
+    "name": "Raikou",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
     "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "location": "Zagreb"
   },
   {
     "id": 2,
-    "name": "Collins",
+    "name": "Suicune",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
-    "location": "Freeburn, Idaho"
+    "location": "Copenhagen"
   },
   {
     "id": 3,
-    "name": "Melissa",
+    "name": "Mightyena",
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
-    "location": "Camas, Pennsylvania"
+    "location": "Stockholm"
   },
   {
     "id": 4,
-    "name": "Jeanine",
+    "name": "Serenity",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
+    "location": "Oslo"
   },
   {
     "id": 5,
-    "name": "Elvia",
+    "name": "Doggo",
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
     "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
+    "location": "Rome"
   },
   {
     "id": 6,
-    "name": "Latisha",
+    "name": "Big Boye",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "location": "London"
   },
   {
     "id": 7,
-    "name": "Coleman",
+    "name": "Max",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
     "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "location": "Warsaw"
   },
   {
     "id": 8,
-    "name": "Nichole",
+    "name": "Bolt",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
+    "location": "Prague"
   },
   {
     "id": 9,
-    "name": "Fran",
+    "name": "Frenky",
     "picture": "images/boxer.jpeg",
     "age": 3,
     "breed": "Boxer",
-    "location": "Matheny, Utah"
+    "location": "Helsinki"
   },
   {
     "id": 10,
@@ -85,46 +85,6 @@
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
-    "location": "Tyhee, Indiana"
-  },
-  {
-    "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
-  },
-  {
-    "id": 12,
-    "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
-  },
-  {
-    "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
-  },
-  {
-    "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
-  },
-  {
-    "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "location": "New York"
   }
 ]
